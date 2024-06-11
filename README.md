@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Diya Nazeer, a first-year Computer Science and Engineering student at LBS Institute of Technology for Women. I'm passionate about technology and eager to grow in the field of computer science.
+I'm Diya Nazeer, a first-year B.Tech Computer Science and Engineering student at LBS Institute of Technology for Women. I'm passionate about technology and eager to grow in the field of computer science.
 
 ---
 
@@ -10,7 +10,7 @@ I recently completed the "Joy of Computing using Python" course on NPTEL, where 
 ---
 
 ### 💡 Goals
-- *Short-term:* Improve my programming skills and work on Python projects.
+- *Short-term:* Improve my programming skills and work on projects.
 - *Long-term:* Secure an internship to gain practical experience.
 
 ---
@@ -22,7 +22,7 @@ I recently completed the "Joy of Computing using Python" course on NPTEL, where 
 ---
 
 ### 📚 Education
-- *LBS Institute of Technology for Women*, Computer Science and Engineering, Class of [2027]
+- *LBS Institute of Technology for Women*, Computer Science and Engineering, Class of 2027
 
 ---
 
