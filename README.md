@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Diya Nazeer, a first-year B.Tech Computer Science and Engineering student at LBS Institute of Technology for Women. I'm passionate about technology and eager to grow in the field of computer science.
+I'm Diya Nazeer, a second-year B.Tech Computer Science and Engineering student at LBS Institute of Technology for Women. I'm passionate about technology and eager to grow in the field of computer science.
 
 ---
 
