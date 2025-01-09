@@ -5,7 +5,7 @@ I'm Diya Nazeer, a second-year B.Tech Computer Science and Engineering student a
 ---
 
 ### 🌱 What I'm Learning
-I recently completed the "Joy of Computing using Python" course on NPTEL, where I developed a foundational understanding of Python. I'm excited to learn more about software development and data science.
+I recently explored Python through the 'Joy of Computing using Python' course on NPTEL and can't wait to use these skills in real-world projects! I'm excited to learn more about software development.
 
 ---
 
