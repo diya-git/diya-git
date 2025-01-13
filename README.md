@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Diya Nazeer
-Curious about technology, learning every day, and building as I go.
+A motivated undergraduate with a keen interest in technology and continuous learning.
 
 ---
 ### 🌱 What I'm Learning
