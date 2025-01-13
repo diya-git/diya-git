@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Diya Nazeer
-
 Curious about technology, learning every day, and building as I go.
----
+
 
 ### 🌱 What I'm Learning
 I recently explored Python through the 'Joy of Computing using Python' course on NPTEL and can't wait to use these skills in real-world projects! I'm excited to learn more about software development.
