@@ -7,11 +7,6 @@ I recently explored Python through the 'Joy of Computing using Python' course on
 
 ---
 
-### 🌟 Skills
-- Problem Solving
-- Eagerness to learn
-
----
 
 ### 📚 Education
 - *LBS Institute of Technology for Women*, Computer Science and Engineering, Class of 2027
