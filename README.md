@@ -3,7 +3,7 @@ A motivated undergraduate with a keen interest in technology and continuous lear
 
 ---
 ### 🌱 What I'm Learning
-I recently explored Python through the 'Joy of Computing using Python' course on NPTEL and can't wait to use these skills in real-world projects! I'm excited to learn more about software development.
+I recently explored Python through the 'Joy of Computing using Python" course on NPTEL and can't wait to use these skills in real-world projects! I'm excited to learn more about software development.
 
 ---
 
