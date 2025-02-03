@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Diya Nazeer
-A motivated undergraduate with a keen interest in technology and continuous learning.
+A motivated undergraduate with a keen interest in technology and continuous learning. 
 
 ---
 ### 🌱 What I'm Learning
