@@ -4,7 +4,7 @@ A motivated undergraduate with a keen interest in technology and continuous lear
 ---
 ## Screenshot
 
-![Badge](WhatsApp Image 2026-02-17 at 10.16.58 PM.jpeg)
+![Badge](WhatsApp Image 2026-02-17 at 10.16.58 PM.png)"
 ---
 
 
