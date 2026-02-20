@@ -2,6 +2,10 @@
 A motivated undergraduate with a keen interest in technology and continuous learning. 
 
 ---
+## Screenshot
+
+![Badge](assets/screenshottt.png)
+---
 
 
 ### 📚 Education
