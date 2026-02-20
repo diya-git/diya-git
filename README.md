@@ -2,7 +2,7 @@
 A motivated undergraduate with a keen interest in technology and continuous learning. 
 
 ---
-## Screenshot
+
 
 <!--![Badge](assets/W.png) -->
 <img src ="assets/W.png" width=200px height=600px>
